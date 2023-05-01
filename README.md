@@ -1,3 +1,3 @@
 # GoCorona
 
-pogozhina.github.io/GoCorona/
+https://webbyanna.github.io/GoCorona/
